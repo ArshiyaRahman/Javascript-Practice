@@ -1,1 +1,2 @@
-let name = "Arshiya";
+let firstname = "Arshiya";
+let lastName = "Rahman";
